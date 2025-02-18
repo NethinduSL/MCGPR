@@ -97,7 +97,7 @@ int3.classList.add("square");
 
 
 let targetTime = new Date();
-targetTime.setHours(11, 30, 0, 0);
+targetTime.setHours(10, 30, 0, 0);
 
 function updateCountdown() {
     let currentTime = new Date();
@@ -135,7 +135,7 @@ updateCountdown();
 
 
                 } else {
-                    document.getElementById(imgId).src = "https://thumbs.dreamstime.com/b/error-message-icon-symbol-logo-design-vector-236124115.jpg";
+                    document.getElementById(imgId).src = "Image/nsch.png";
                     document.getElementById(nameId).textContent = `Class ${classKey.charAt(5).toUpperCase()}`;
                     document.getElementById(subjectId).textContent = "Subject";
                 }
