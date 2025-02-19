@@ -19,9 +19,9 @@
  //namp na iaga
 const teachers = {
   // Sinhala
-  STIN: { name: "S. T. Indrani", subjects: "Sinhala, Optional-2", img: "Image/STIN.JPG" },//
+  STIN: { name: "S. T. Indrani", subjects: "Sinhala, Optional-2", img: "Image/STIN.png" },//
   STIN2: { name: "S. T. Indrani", subjects: "Tutorials Sinhala", img: "Image/STIN.JPG" },//
-  SANP: { name: "S. A. Nayana Preethi Kumari", subjects: "Sinhala", img: "Image/SANP.JPG" },//
+  SANP: { name: "S. A. Nayana Preethi Kumari", subjects: "Sinhala", img: "Image/SANP.png" },//
   SWM: { name: "S. W. M. Krishantha", subjects: "Sinhala, Tutorials Sinhala", img: "Image/SWM.JPG" },
   NUWA: { name: "G. H. N. Chathuranga", subjects: "Sinhala", img: "Image/NUWA.JPG" },//
   MDMU: { name: "M.D.M.U. Pushpakumara", subjects: "Sinhala", img: "Image/MDMU.JPG" },
@@ -49,6 +49,7 @@ const teachers = {
   NPAM: { name: "N. P. Amila Chaturika", subjects: "Science", img: "Image/NPAM.png" },
   WHG: { name: "W. H. G. Nishani", subjects: "Science", img: "Image/WHG.png" },
   HLDP: { name: "H. L. D. P. Champika", subjects: "Science, Tutorial Sciences", img: "Image/HLDP.JPG" },
+  IAGA: { name: "I.A. Gamage", subjects: "Science, Tutorial Sciences", img: "Image/IAGA.JPG" },
 
   // History
   KHNL: { name: "K. H. Nallaperuma", subjects: "History, Tutriols History", img: "Image/KHNL.JPG" },
