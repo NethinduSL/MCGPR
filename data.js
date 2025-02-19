@@ -52,8 +52,8 @@ const teacherDataByDay = {
             period5:null,
             period6:"SWM",
             period7:"SWM",
-            period8:"NAPM",
-            period9:"NAPM", // New period
+            period8:"NPAM",
+            period9:"NPAM", // New period
         },
         classF: {
             period1:"SMYD",
@@ -92,7 +92,7 @@ const teacherDataByDay = {
         },
         classC: {
             period1:"WHG",
-            period2:"IGU",
+            period2:"IUG",
             period3:"MACH",
             period4:"BPLA",
             period5:null,
@@ -120,7 +120,7 @@ const teacherDataByDay = {
             period5:null,
             period6:"WARW",
             period7:"WARW",
-            period8:"NAPM",
+            period8:"NPAM",
             period9:"GISA", // New period
         },
         classF: {
@@ -181,7 +181,7 @@ const teacherDataByDay = {
             period9:"BDSE", // New period
         },
         classE: {
-            period1:"NAPM",
+            period1:"NPAM",
             period2:"OPT3B",
             period3:"KSRI",
             period4:"SWM",
@@ -254,7 +254,7 @@ const teacherDataByDay = {
             period3:"GISA",
             period4:"GISA",
             period5:null,
-            period6:"NAPM",
+            period6:"NPAM",
             period7:"IUG",
             period8:"KSRI",
             period9:"SWM", // New period
