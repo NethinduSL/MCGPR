@@ -1,3 +1,22 @@
+document.addEventListener("DOMContentLoaded", () => {
+    const toggleBtn = document.getElementById("hi2");
+
+    if (toggleBtn) {
+        toggleBtn.addEventListener("click", () => {
+            document.body.classList.toggle("dark-mode");
+
+            if (document.body.classList.contains("dark-mode")) {
+                toggleBtn.innerText = "☀️ Light Mode";
+            } else {
+                toggleBtn.innerText = "🌙 Dark Mode";
+            }
+        });
+    }
+});
+
+
+
+
 async function updateClassData() {
     const now = new Date();
     const sriLankaTime = now.toLocaleString("en-US", { timeZone: "Asia/Colombo" });
