@@ -5,8 +5,7 @@
     { start: "07:50", end: "08:10", id: "period1" }, 
     { start: "08:30", end: "09:10", id: "period2" },
     { start: "09:10", end: "09:50", id: "period3" },
-    { start: "09:50", end: "09:59", id: "period4" },
-    { start: "10:00", end: "10:30", id: "period4" },
+    { start: "09:50", end: "10:30", id: "period4" },
     { start: "10:30", end: "10:50", id: "period5" }, // Interval
     { start: "10:50", end: "11:30", id: "period6" },
     { start: "11:30", end: "12:10", id: "period7" },
