@@ -2,10 +2,10 @@
     // Period timings (24-hour format, 5th is interval)
     const periodTimings = [
     { start: "00:30", end: "07:49", id: "No School" },
-    { start: "07:50", end: "08:30", id: "period1" }, 
-    { start: "08:31", end: "09:10", id: "period2" },
-    { start: "09:11", end: "09:50", id: "period3" },
-    { start: "09:51", end: "10:30", id: "period4" },
+    { start: "7:50", end: "8:30", id: "period1" }, 
+    { start: "8:31", end: "9:10", id: "period2" },
+    { start: "9:11", end: "9:50", id: "period3" },
+    { start: "9:51", end: "10:30", id: "period4" },
     { start: "10:31", end: "10:50", id: "Interval" }, // Interval
     { start: "10:51", end: "11:30", id: "period6" },
     { start: "11:31", end: "12:10", id: "period7" },
